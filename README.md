@@ -23,3 +23,4 @@ npm run dev
 
 ## Result
 
+[vplayer url="https:\/\/littlefisher.oss-cn-beijing.aliyuncs.com/weather-app.mp4"  /]
