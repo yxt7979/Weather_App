@@ -21,8 +21,5 @@ cd my_first_app
 npm run dev
 ```
 
-<<<<<<< HEAD
 ## Result
-=======
-## Result
->>>>>>> a3af2e7b15351c1a160d37b9a7520a98790703ec
+
